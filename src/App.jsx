@@ -10,7 +10,7 @@ function App() {
     },
     {
       title: "ToDO List App",
-      description: "About: Todo app that uses my sql for the data base flask for backend and react for front end",
+      description: "Todo app that uses MySQL for the data base flask for backend and react for front end",
       link: "https://github.com/porkchopmiles/ToDoApp",
     },
     {
@@ -20,18 +20,18 @@ function App() {
     },
     {
       title: "Weather App",
-      description: "React app that fetches weather data from an API.",
-      link: "https://github.com/yourusername/weather-app",
+      description: "React app that fetches weather data from an API. Ongoing project.",
+      link: "N/A",
     },
     {
       title: "Task Manager",
       description: "A simple CRUD task manager built with React.",
-      link: "https://github.com/yourusername/task-manager",
+      link: "N/A",
     },
     {
       title: "Blog Platform",
       description: "A blog platform using React and Node.js backend.",
-      link: "https://github.com/yourusername/blog-platform",
+      link: "N/A",
     },
   ];
   return (
@@ -46,8 +46,8 @@ function App() {
       <section className="about">
         <h2>About Me</h2>
         <p>
-          I am a Computer science student at the University of Idaho alot of my public projects can be found on my github page below. They are mostly small projects that I have done to learn new skills and technologies.
-          My current private projects are focusing on data bases and scalable consumer products. 
+          I am a Computer science student at the University of Idaho. Its currently my senior year alot of my public projects can be found on my github page below. They are mostly small projects that I have done to learn new skills and technologies.
+          My current private projects are focusing on data bases and scalable consumer products. With my school prjects focusing on ML and IoT Networks 
         </p>
       </section>
 
